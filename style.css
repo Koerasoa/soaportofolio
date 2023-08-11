@@ -1,6 +1,7 @@
 *{
     text-align: center;
     border: 10px black ridge;
+    background-color: black;
 }
 body{
     background-image: url("logo.png");
@@ -12,18 +13,18 @@ body{
     display: flex;
     background-color: brown;
     color: black;
-    font-size: x-large;
+    font-size: xx-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .container{
     color: white;
-    font-size: medium;
+    font-size: x-large;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: chocolate;
     background-color: white;
-    font-size: medium;
+    font-size: xx-large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
@@ -33,44 +34,44 @@ h1{
 .tenykely{
     color: black;
     background-color:white;
-    font-size: small;
+    font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
 h2{
     color: chocolate;
     background-color: black;
-    font-size: medium;
+    font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
 .presentation{
     color: white;
     background-color: black;
-    font-size: x-small;
+    font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
 #special{
     color: beige;
-    font-size: small;
+    font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .tolotra{
     color: black;
     background-color: coral;
-    font-size: medium;
+    font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
 }
 h3{
     color: black;
     background-color: coral;
-    font-size: medium;
+    font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
 .resaka{
     color: brown;
     background-color: black;
-    font-size: large;
+    font-size: x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 strong{
