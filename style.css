@@ -13,7 +13,7 @@
 .navbar{
     background-color: goldenrod;
     display: flex;
-    flex direction : unline;
+    flex direction : inline;
     font-size: medium;
 }
 article{
